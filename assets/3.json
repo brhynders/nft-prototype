@@ -1,0 +1,35 @@
+{
+    "name": "Brandon's Byte 4",
+    "symbol": "",
+    "description": "Byte #4 of Brandon's Bytes",
+    "seller_fee_basis_points": 250,
+    "image": "3.jpg",
+    "animation_url": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "red",
+        "rarity": "40%"
+      }
+    ],
+    "collection": {
+       "name": "Brandon's Bytes",
+       "family": "Brandon Rhynders"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "3.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "AZnNRujyPpaMEbTDipcJitjAmorifiiANNiWoMvPn6zi",
+          "share": 100
+        }
+      ]
+    }
+  }
